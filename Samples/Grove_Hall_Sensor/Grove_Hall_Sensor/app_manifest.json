@@ -1,0 +1,18 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "Grove_Hall_Sensor",
+  "ComponentId" : "f6f3e3e7-8c28-408e-ae5e-d0233071cd1a",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [ 8, 9, 10, 15, 16, 17, 18, 19, 20, 12, 13, 0, 1, 4, 5, 57, 58, 11, 14, 48 ],
+    "Uart": [ "ISU0", "ISU3" ],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false,
+    "DeviceAuthentication": "b7f20669-7d3c-43b0-859b-c0f3ac4726d0"
+  }
+}

@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 18.11.3.23758
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Friday, 08 February 2019 12:04:02 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         f6f3e3e7-8c28-408e-ae5e-d0233071cd1a
+      Image ID:             6667733d-7f00-4d65-a525-a23dd9240b43
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           Grove_Hall_Sensor
+      Built On (UTC):       08/02/2019 12:04:03
+      Built On (Local):     08/02/2019 12:04:03
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 1
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\Users\Michael\source\repos\Grove_Hall_Sensor\Grove_Hall_Sensor\bin\ARM\Debug\Grove_Hall_Sensor.imagepackage 
+  Command completed successfully in 00:00:00.5534428. 

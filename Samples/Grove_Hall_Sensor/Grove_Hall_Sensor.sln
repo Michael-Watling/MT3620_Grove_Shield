@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grove_Hall_Sensor", "Grove_Hall_Sensor\Grove_Hall_Sensor.vcxproj", "{E7637761-2357-44A3-A27F-0C67A2A39224}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3620_Grove_Shield_Library", "..\..\..\Desktop\MT3620_Grove_Shield-master\MT3620_Grove_Shield-master\MT3620_Grove_Shield_Library\MT3620_Grove_Shield_Library.vcxproj", "{A4F0A16D-B28D-4249-9B0A-EEEC5090F21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7637761-2357-44A3-A27F-0C67A2A39224}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E7637761-2357-44A3-A27F-0C67A2A39224}.Debug|ARM.Build.0 = Debug|ARM
+		{E7637761-2357-44A3-A27F-0C67A2A39224}.Release|ARM.ActiveCfg = Release|ARM
+		{E7637761-2357-44A3-A27F-0C67A2A39224}.Release|ARM.Build.0 = Release|ARM
+		{A4F0A16D-B28D-4249-9B0A-EEEC5090F21D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A4F0A16D-B28D-4249-9B0A-EEEC5090F21D}.Debug|ARM.Build.0 = Debug|ARM
+		{A4F0A16D-B28D-4249-9B0A-EEEC5090F21D}.Release|ARM.ActiveCfg = Release|ARM
+		{A4F0A16D-B28D-4249-9B0A-EEEC5090F21D}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BF435BD-9406-4C54-9A2C-9A33C4B90C24}
+	EndGlobalSection
+EndGlobal
